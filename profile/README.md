@@ -3,8 +3,7 @@
     <img
       src="https://github.com/zeppstr/.github/blob/main/logo.png"
       alt="zeppstr Logo"
-      width="300px"
-      height="120px"
+      width="1000px"
     />
   </a>
 </div>
