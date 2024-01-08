@@ -25,8 +25,8 @@
   <ul>
     <li><strong>Can Çelik (@can101):</strong> Project Manager</li>
     <li><strong>Ufuk Kuru (@Ufukkuru):</strong> Project Assistant</li>
-    <li><strong>Khabib (@khabibshv):</strong> Website Developer</li>
-    <li><strong>Qafar Qəmbərzadə (@qafaraz):</strong> Website Developer</li>
+    <li><strong>Khabib (@khabibshv):</strong> Web Developer</li>
+    <li><strong>Qafar Qəmbərzadə (@qafaraz):</strong> Web Developer</li>
   </ul>
 
   <p>This team directs Zeppstr projects with their expertise in mobile technology, creating a strong team with complementary skills.</p>
