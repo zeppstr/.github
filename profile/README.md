@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/zeppstr/.github/blob/main/logo.png">
+    <a href="https://github.com/zeppstr/.github/blob/main/logo-new.png">
       <img src="https://github.com/zeppstr/.github/blob/main/logo.png" alt="zeppstr Logo" width="1000px" />
     </a>
   </div>
