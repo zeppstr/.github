@@ -1,34 +1,67 @@
 <div align="center">
-    <a href="https://github.com/zeppstr/.github/blob/main/logo-new.png">
-      <img src="https://github.com/zeppstr/.github/blob/main/logo-new.png" alt="zeppstr Logo" width="1000px" />
-    </a>
-  </div>
-  <hr />
+  <a href="https://github.com/zeppstr/.github/blob/main/logo-new.png">
+    <img
+      src="https://github.com/zeppstr/.github/blob/main/logo-new.png"
+      alt="Zappstr Logo"
+      width="1000px"
+    />
+  </a>
+</div>
+<hr />
 
-  <h2>About Us - Zeppstr</h2>
+<h2>About Us – Zappstr</h2>
 
-  <p>Hello! We, the Zeppstr team, embarked on a journey of mobile application development filled with passion and innovation. We came together in [Foundation Year] and are determined to set new standards in interaction and experience in the mobile world.</p>
+<p>
+  Hello! We are the Zappstr team, driven by a passion for innovation and modern
+  mobile application development. Founded in 2024, we set out with a clear goal:
+  to redefine interaction and user experience in the mobile ecosystem through
+  thoughtful, high-quality digital products.
+</p>
 
-  <h3>Our Mission and Vision:</h3>
-  <p>At Zeppstr, our mission is to enhance user experience by making our daily lives more efficient, enjoyable, and connected. Our vision is to add value to people's lives and connect them by harnessing the power of technology.</p>
+<h3>Our Mission & Vision</h3>
+<p>
+  Our mission at Zappstr is to create user-centric digital solutions that make
+  everyday life more efficient, enjoyable, and connected. Our vision is to
+  leverage the power of technology to deliver meaningful value, bringing people
+  together through modern and intuitive experiences.
+</p>
 
-  <h3>Our Application Focus:</h3>
-  <p>Zeppstr focuses on [Application Domain], offering users [Service or Product]. We provide solutions that allow our users to manage their daily activities in a more enjoyable and organized way.</p>
+<h3>Our Focus</h3>
+<p>
+  Zappstr specializes in the development of mobile applications and digital
+  products. We design and build solutions that enhance productivity, simplify
+  daily routines, and deliver clean, modern, and engaging user experiences.
+</p>
 
-  <h3>Our Values:</h3>
-  <p>Transparency, user-centricity, and continuous improvement are the foundation of our values in conducting our business. As the Zeppstr team, we uphold high-quality standards and prioritize user satisfaction at every stage.</p>
+<h3>Our Values</h3>
+<p>
+  Transparency, user-centered design, and continuous improvement form the core
+  of everything we do. At Zappstr, we are committed to maintaining high quality
+  standards while prioritizing user satisfaction at every stage of development.
+</p>
 
-  <h3>Our Team:</h3>
-  <p>The Zeppstr team is a community of creative and talented professionals. Each of us is a dedicated team member with expertise in mobile technologies and a passion for user experience.</p>
+<h3>Our Team</h3>
+<p>
+  The Zappstr team is a collective of creative and skilled professionals with a
+  strong background in mobile and web technologies. Each team member shares a
+  passion for building impactful products and delivering exceptional user
+  experiences.
+</p>
 
-  <h3>Core Team:</h3>
-  <ul>
-    <li><strong>Can Çelik (@can101):</strong> Project Manager</li>
-    <li><strong>Ufuk Kuru (@Ufukkuru):</strong> Project Assistant</li>
-    <li><strong>Khabib (@khabibshv):</strong> Web Developer</li>
-    <li><strong>Qafar Qəmbərzadə (@qafaraz):</strong> Web Developer</li>
-  </ul>
+<h3>Core Team</h3>
+<ul>
+  <li><strong>Can Çelik (@can101):</strong> Project Manager</li>
+  <li><strong>Qafar Qəmbərzadə (@qafaraz):</strong> Web Developer</li>
+</ul>
 
-  <p>This team directs Zeppstr projects with their expertise in mobile technology, creating a strong team with complementary skills.</p>
+<p>
+  This core team leads Zappstr projects with complementary expertise in mobile
+  and web technologies, ensuring a balanced and efficient development process.
+</p>
 
-  <p>We, as a team with diverse skills, experiences, and perspectives, come together to breathe life into Zeppstr projects. Each of us works with the vision of providing the best experience to our users, striving together to make a difference in the mobile app world.</p>
+<p>
+  United by diverse skills, experiences, and perspectives, we bring Zappstr
+  projects to life with a shared commitment to excellence. Our goal is to create
+  products that make a lasting impact and set a strong foundation within the
+  global mobile application landscape.
+</p>
