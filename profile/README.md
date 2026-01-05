@@ -9,7 +9,7 @@
 </div>
 <hr />
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=6438286298171910285" target="_blank">
+  <a href="https://play.google.com/store/apps/dev?id=6438286298171910285" target="_blank">
     <img
       src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
       alt="Get it on Google Play"
