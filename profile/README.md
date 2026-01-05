@@ -8,7 +8,15 @@
   </a>
 </div>
 <hr />
-
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=YOUR_APP_ID" target="_blank">
+    <img
+      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      alt="Get it on Google Play"
+      height="80"
+    />
+  </a>
+</div>
 <h2>About Us – Zappstr</h2>
 
 <p>
